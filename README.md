@@ -36,6 +36,6 @@ I am a **Junior backend Developer** based in Italy 🇮🇹, focused on building
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolalobascio-ui&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolalobascio-ui&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
