@@ -1,6 +1,6 @@
 # Hi there, I'm Nicola! 👋
 
-I am a **Junior backend Developer based in Italy 🇮🇹, focused on building clean, functional, and user-friendly applications. Even though my journey has just begun, I am committed to writing quality code and constantly learning new technologies.
+I am a **Junior backend Developer** based in Italy 🇮🇹, focused on building clean, functional, and user-friendly applications. Even though my journey has just begun, I am committed to writing quality code and constantly learning new technologies.
 
 ---
 
@@ -26,15 +26,14 @@ I am a **Junior backend Developer based in Italy 🇮🇹, focused on building c
 ---
 
 ### 🚀 What I'm working on
-- 🌱 I’m currently learning React.
+- 🌱 Currently expanding my skills into Full-stack development by learning React and Next.js to complement my Spring Boot expertise.
 
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** [Inserisci il link al tuo profilo]
 - **Email:** nicklobascio@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[IL-TUO-USERNAME]&show_icons=true&theme=radical)
+![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=IL-TUO-USERNAME&show_icons=true&theme=radical)
