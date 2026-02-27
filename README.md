@@ -32,8 +32,3 @@ I am a **Junior backend Developer** based in Italy 🇮🇹, focused on building
 
 ### 📫 How to reach me
 - **Email:** nicklobascio@gmail.com
-
----
-
-
-
